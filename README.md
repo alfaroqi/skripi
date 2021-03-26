@@ -1,7 +1,5 @@
 # Readme
-```
-import a MySQL database
-```
+
 
 ```
 user : admin
